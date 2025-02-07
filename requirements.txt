@@ -1,0 +1,5 @@
+Flask==2.2.3
+opencv-python==4.11.0
+mediapipe==0.8.10
+pygame==2.6.1
+gunicorn==20.1.0  # For deployment on Vercel
